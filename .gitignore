@@ -213,3 +213,5 @@ images/
 
 #Ignore editor
 .vscode
+*.txt
+*.pkl
